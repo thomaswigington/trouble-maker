@@ -1,0 +1,36 @@
+/*****************************************tag selectors*********************************/
+
+body {
+  background-color: #d4f3ef;
+}
+img {
+  height: 300px;
+}
+h1 {
+  color: #63b7af;
+}
+h2 {
+  color: #63b7af;
+}
+h3 {
+  color: #63b7af;
+}
+hr {
+  border-style: dotted none none;
+  border-color: #ee8572;
+  border-width: 5px;
+  width: 5%;
+}
+table {
+  border-spacing: 1em .5em;
+  /*padding: 0 2em 1em 0;
+  border: 1px solid orange;*/
+}
+
+/*****************************************class selectors*******************************/
+.black {
+  color: black
+}
+.circular{
+  border-radius: 100%;
+}
